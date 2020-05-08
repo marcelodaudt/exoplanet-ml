@@ -22,8 +22,8 @@ import apache_beam as beam
 from apache_beam.metrics import Metrics
 import numpy as np
 
+from beam.light_curve import light_curve_pb2
 from light_curve import kepler_io
-from light_curve import light_curve_pb2
 from light_curve import util
 from third_party.kepler_spline import kepler_spline
 from third_party.robust_mean import robust_mean

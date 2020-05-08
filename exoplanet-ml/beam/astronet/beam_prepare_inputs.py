@@ -33,7 +33,7 @@ import tensorflow as tf
 from astronet.data import preprocess
 from beam import utils
 from beam.light_curve import light_curve_fns
-from light_curve import light_curve_pb2
+from beam.light_curve import light_curve_pb2
 from tf_util import configdict
 
 # pylint: disable=expression-not-assigned

@@ -11,7 +11,7 @@ py_binary(
         "//astronet/data:preprocess",
         "//beam:utils",
         "//beam/light_curve:light_curve_fns",
-        "//light_curve:light_curve_py_pb2",
+        "//beam/light_curve:light_curve_py_pb2",
         "//tf_util:configdict",
     ],
 )
