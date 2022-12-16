@@ -1,4 +1,7 @@
 # Exoplanet ML
+##############
+
+NOTA: Adaptação do código original
 
 Machine learning models and utilities for exoplanet science.
 
